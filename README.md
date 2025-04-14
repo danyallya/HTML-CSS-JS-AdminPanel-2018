@@ -35,5 +35,5 @@ The project was created in 2018 and serves as a basic template for developers wh
    ```
 2.Navigate to the project directory:
    ```bash
-cd AdminPanel-2018
+cd HTML-CSS-JS-AdminPanel-2018
    ```
