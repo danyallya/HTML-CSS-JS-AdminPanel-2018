@@ -1,0 +1,23 @@
+
+.login-box {
+    position: fixed;
+    top: 10%;
+    right: 10%;
+    /* bottom: 10%; */
+    left: 10%;
+    margin: 0 auto;
+    width: 35%;
+    padding-bottom: 30px;
+    /* margin-left: -200px; */
+    /* margin-top: -150px; */
+    background: #ebebeb;
+    z-index: 9999999999999999999999999;
+    transition: 0.5s ease-out;
+}
+.login-box .header{
+    width: 100%;
+    padding: 15px;
+    background-color: dimgrey;
+    color: white;
+    font-weight: bold;
+}

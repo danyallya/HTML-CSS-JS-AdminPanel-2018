@@ -1,0 +1,61 @@
+@media screen and (max-width: 700px) {
+    /*tbody tr td, tbody tr th {*/
+    /*padding: 10px !important;*/
+    /*padding-top: 20px!important;*/
+    /*font-size: 11px;*/
+    /*}*/
+    /*table thead tr th {*/
+    /*padding: 10px !important;*/
+    /*font-size: 11px;*/
+    /*}*/
+    header .option span {
+        display: none;
+    }
+
+    header .option {
+        margin-left: 0;
+    }
+
+    header .logo-food {
+        display: none;
+    }
+
+    header .user-img {
+        display: none;
+    }
+
+    .login-box {
+        position: fixed;
+        top: 10%;
+        right: 10%;
+        /* bottom: 10%; */
+        left: 10%;
+        margin: 0 auto;
+        width: 50%;
+        padding-bottom: 30px;
+        /* margin-left: -200px; */
+        /* margin-top: -150px; */
+        background: #ebebeb;
+        z-index: 9999999999999999999999999;
+        transition: 0.5s ease-out;
+    }
+}
+@media screen and (max-width: 500px) {
+
+
+    .login-box {
+        position: fixed;
+        top: 10%;
+        right: 10%;
+        /* bottom: 10%; */
+        left: 10%;
+        margin: 0 auto;
+        width: 70%;
+        padding-bottom: 30px;
+        /* margin-left: -200px; */
+        /* margin-top: -150px; */
+        background: #ebebeb;
+        z-index: 9999999999999999999999999;
+        transition: 0.5s ease-out;
+    }
+}
